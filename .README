@@ -1,0 +1,19 @@
+# Your Friendly Neighborhood
+
+A React Native app for connecting people who need help, and people who can help.
+
+## Features
+
+- Post help requests with title, description, and your current location
+- View all requests on a map
+- See request details
+- Answering the help
+
+## Tech Stack
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Firebase Firestore](https://firebase.google.com/docs/firestore)
+
+## How to add ssh key.
+`ssh-add ~/.ssh/side_project_rsa`
